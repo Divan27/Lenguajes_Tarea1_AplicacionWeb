@@ -1,0 +1,128 @@
+/* Fondo general */
+body{
+  margin:0;
+  padding:0;
+  font-family: Arial, sans-serif;
+  background:#cfefff;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+}
+
+/* Tarjeta central */
+.contenedor{
+  background:white;
+  padding:50px;
+  border-radius:20px;
+  box-shadow:0 10px 25px rgba(0,0,0,0.15);
+  width:600px;
+  max-width:90%;
+  text-align:center;
+}
+
+/* Titulo principal */
+h1{
+  font-family:'Monospace', cursive;
+  color:#eb2525;
+  font-size:34px;
+  margin-bottom:40px;
+}
+
+/* Subtitulos */
+h2{
+  font-family:'Monospace', cursive;
+  font-size:26px;
+  color:#16a34a;
+  margin-bottom:10px;
+}
+
+/* Preguntas */
+h3{
+  font-family:'Monospace', cursive;
+  font-size:24px;
+  margin-bottom:30px;
+}
+
+/* Texto general */
+p{
+  font-family:'Monospace', cursive;
+  font-size:20px;
+}
+
+/* Campo nombre */
+input{
+  font-family:'Monospace', cursive;
+  font-size:20px;
+  padding:12px;
+  width:80%;
+  border-radius:8px;
+  border:2px solid #ccc;
+  text-align:center;
+}
+
+/* Selector */
+select{
+  font-family:'Monospace', cursive;
+  font-size:20px;
+  padding:12px;
+  width:80%;
+  border-radius:8px;
+  border:2px solid #ccc;
+}
+
+/* Botones generales */
+button{
+  font-family:'Monospace', cursive;
+  font-size:20px;
+  padding:14px 28px;
+  border:none;
+  border-radius:10px;
+  cursor:pointer;
+  margin:10px;
+  transition:0.2s;
+}
+
+/* Boton iniciar */
+button:nth-of-type(1){
+  font-family:'Monospace', cursive;
+  background:#22c55e;
+  color:white;
+}
+
+/* Boton historial */
+button:nth-of-type(2){
+  font-family:'Monospace', cursive;
+  background:#3b82f6;
+  color:white;
+}
+
+/* Boton siguiente */
+.verde{
+  font-family:'Monospace', cursive;
+  background:#22c55e;
+  color:white;
+}
+
+/* Boton salir */
+.rojo{
+  font-family:'Monospace', cursive;
+  background:#ef4444;
+  color:white;
+}
+
+/* Efecto hover */
+button:hover{
+  font-family:'Monospace', cursive;
+  transform:scale(1.07);
+  opacity:0.9;
+}
+
+/* Historial */
+.historial-item{
+  font-family:'Monospace', cursive;
+  background:#f1f5f9;
+  padding:10px;
+  margin:8px 0;
+  border-radius:8px;
+}
