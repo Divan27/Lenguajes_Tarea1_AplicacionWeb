@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  },
+  "name": "preguntados_appweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "backend": "cd backend && node server.js",
+    "frontend": "cd frontend && npm start",
+    "install-all": "npm install --prefix backend && npm install --prefix frontend",
+    "start": "concurrently \"npm run backend\" \"npm run frontend\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
