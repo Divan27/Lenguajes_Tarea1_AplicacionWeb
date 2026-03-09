@@ -48,14 +48,14 @@ Para ejecutar el proyecto en tu computadora sigue los siguientes pasos:
 
 cd Preguntados_AppWeb
 
-###3. Instalar dependencias
+### 3. Instalar dependencias
 
 Abrir una terminal en la carpeta principal del proyecto y ejecutar:
 
 npm run install-all
 npm install concurrently
 
-###4. Ejecutar la aplicación
+### 4. Ejecutar la aplicación
 npm start
 Ejecución
 
