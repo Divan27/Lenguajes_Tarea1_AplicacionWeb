@@ -44,11 +44,9 @@ Para ejecutar el proyecto en tu computadora sigue los siguientes pasos:
 
 ### 1. Clonar el repositorio
 
-
 ### 2. Ingresar a la carpeta del proyecto
 
 cd Preguntados_AppWeb
-
 
 ###3. Instalar dependencias
 
@@ -56,7 +54,6 @@ Abrir una terminal en la carpeta principal del proyecto y ejecutar:
 
 npm run install-all
 npm install concurrently
-
 
 ###4. Ejecutar la aplicación
 npm start
