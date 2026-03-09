@@ -1,0 +1,154 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Capital de Francia?",
+      "opciones": ["Paris", "Roma", "Madrid"],
+      "correcta": "Paris"
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Cuantos continentes hay en la Tierra?",
+      "opciones": ["5", "6", "7"],
+      "correcta": "7"
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Quien escribio Don Quijote de la Mancha?",
+      "opciones": ["Gabriel Garcia Marquez", "Miguel de Cervantes", "Pablo Neruda"],
+      "correcta": "Miguel de Cervantes"
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Planeta mas grande del sistema solar?",
+      "opciones": ["Jupiter", "Saturno", "Marte"],
+      "correcta": "Jupiter"
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Capital de Japon?",
+      "opciones": ["Seul", "Tokio", "Beijing"],
+      "correcta": "Tokio"
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Cuantos lados tiene un triangulo?",
+      "opciones": ["3", "4", "5"],
+      "correcta": "3"
+    },
+    {
+      "id": 7,
+      "pregunta": "¿Oceano mas grande del planeta?",
+      "opciones": ["Atlantico", "Pacifico", "Indico"],
+      "correcta": "Pacifico"
+    },
+    {
+      "id": 8,
+      "pregunta": "¿Quien pinto la Mona Lisa?",
+      "opciones": ["Leonardo da Vinci", "Picasso", "Van Gogh"],
+      "correcta": "Leonardo da Vinci"
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Pais donde se encuentran las piramides de Giza?",
+      "opciones": ["Mexico", "Egipto", "Peru"],
+      "correcta": "Egipto"
+    },
+    {
+      "id": 10,
+      "pregunta": "¿Animal mas grande del mundo?",
+      "opciones": ["Elefante", "Ballena azul", "Jirafa"],
+      "correcta": "Ballena azul"
+    },
+    {
+      "id": 11,
+      "pregunta": "¿Lenguaje principal para desarrollo web en navegadores?",
+      "opciones": ["Java", "JavaScript", "C#"],
+      "correcta": "JavaScript"
+    },
+    {
+      "id": 12,
+      "pregunta": "¿Capital de Italia?",
+      "opciones": ["Roma", "Venecia", "Milan"],
+      "correcta": "Roma"
+    },
+    {
+      "id": 13,
+      "pregunta": "¿Cuantos dias tiene un año normal?",
+      "opciones": ["365", "360", "366"],
+      "correcta": "365"
+    },
+    {
+      "id": 14,
+      "pregunta": "¿Cual es el metal cuyo simbolo es Au?",
+      "opciones": ["Plata", "Oro", "Cobre"],
+      "correcta": "Oro"
+    },
+    {
+      "id": 15,
+      "pregunta": "¿Capital de Alemania?",
+      "opciones": ["Berlin", "Hamburgo", "Munich"],
+      "correcta": "Berlin"
+    },
+    {
+      "id": 16,
+      "pregunta": "¿Instrumento musical con teclas blancas y negras?",
+      "opciones": ["Guitarra", "Piano", "Violin"],
+      "correcta": "Piano"
+    },
+    {
+      "id": 17,
+      "pregunta": "¿Animal conocido como el rey de la selva?",
+      "opciones": ["Leon", "Tigre", "Leopardo"],
+      "correcta": "Leon"
+    },
+    {
+      "id": 18,
+      "pregunta": "¿Gas que respiramos para vivir?",
+      "opciones": ["Oxigeno", "Carbono", "Helio"],
+      "correcta": "Oxigeno"
+    },
+    {
+      "id": 19,
+      "pregunta": "¿Capital de España?",
+      "opciones": ["Madrid", "Barcelona", "Sevilla"],
+      "correcta": "Madrid"
+    },
+    {
+      "id": 20,
+      "pregunta": "¿Numero de planetas en el sistema solar?",
+      "opciones": ["7", "8", "9"],
+      "correcta": "8"
+    },
+    {
+      "id": 21,
+      "pregunta": "¿Pais famoso por la Torre Eiffel?",
+      "opciones": ["Italia", "Francia", "Alemania"],
+      "correcta": "Francia"
+    },
+    {
+      "id": 22,
+      "pregunta": "¿Cual es el rio mas largo del mundo?",
+      "opciones": ["Nilo", "Amazonas", "Misisipi"],
+      "correcta": "Amazonas"
+    },
+    {
+      "id": 23,
+      "pregunta": "¿Color que resulta de mezclar rojo y azul?",
+      "opciones": ["Morado", "Verde", "Naranja"],
+      "correcta": "Morado"
+    },
+    {
+      "id": 24,
+      "pregunta": "¿Planeta conocido como planeta rojo?",
+      "opciones": ["Marte", "Venus", "Mercurio"],
+      "correcta": "Marte"
+    },
+    {
+      "id": 25,
+      "pregunta": "¿Animal que pone huevos y vuela?",
+      "opciones": ["Perro", "Ave", "Caballo"],
+      "correcta": "Ave"
+    }
+  ]
+}
